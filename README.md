@@ -117,9 +117,9 @@ Your app will be available at `http://localhost:4200`
 
 ## 👥 **Contributors**
 - 💻  [**Mohit Kumar Saini**](https://github.com/mohit-kumar-saini)
-- 👨‍💻  [**Rahul Kumar Rajak**](https://github.com/rahul-kumar-rajak)
+- 👨‍💻  [**Rahul Kumar Rajak**](https://github.com/rajakRahul1283)
 - 💼  [**Satyam Kumar**](https://github.com/Satyaamp)
-- 🧑‍💻  [**Harish Choudhary**](https://github.com/harish-choudhary)
+- 🧑‍💻  [**Harish Choudhary**](https://github.com/harish00choudhary)
 - 👨‍💻  [**Ukirde Jaydeep Shivaji**](https://github.com/ukirde-jaydeep-shivaji)
 
 --- 
