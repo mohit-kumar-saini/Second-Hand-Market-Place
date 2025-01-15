@@ -1,3 +1,5 @@
+
+
 # 🌟 **Second-Hand Marketplace**
 
 The **Second-Hand Marketplace** is a web-based platform allowing users to buy and sell used items. Built with the **MEAN stack** (MongoDB, Express.js, Angular, Node.js), it offers a secure and user-friendly environment for second-hand transactions.
@@ -93,13 +95,10 @@ ng serve
 ```
 
 Your app will be available at `http://localhost:4200`.
-```
 
+---
 
-Here is the updated section for the `README.md` with proper Markdown formatting for the API Endpoints and Contributors:
-
-```markdown
-## 🔧 API Endpoints
+## 🔧 **API Endpoints**
 
 ### Authentication
 - **POST /api/auth/register**: Register a new user.
@@ -115,10 +114,15 @@ Here is the updated section for the `README.md` with proper Markdown formatting 
 - **GET /api/chat/:conversationId**: Fetch chat history for a specific conversation.
 - **POST /api/chat**: Send a message in an ongoing conversation.
 
+---
+
+
 ## 👥 **Contributors**
 - Mohit Kumar Saini
 - Rahul Kumar Rajak
 - Satyam Kumar
 - Harish Choudhary
 - Ukirde Jaydeep Shivaji
+
+---
 
