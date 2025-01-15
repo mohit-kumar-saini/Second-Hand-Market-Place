@@ -54,7 +54,7 @@ A platform for users to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/second-hand-marketplace.git
+git clone https://github.com/mohit-kumar-saini/Second-Hand-Market-Place.git
 cd second-hand-marketplace
 ```
 
@@ -75,8 +75,8 @@ npm install
 ```
 
 ### 4. Configure Environment Variables
-- Set up the required `.env` file for backend settings like database URL, JWT secret, etc.
-- Adjust API URLs in the frontend configuration as needed.
+- Set up the required `.env` file for backend settings like database URL, JWT secret
+- Adjust API URLs in the frontend configuration as needed
 
 ### 5. Start Development Servers
 
